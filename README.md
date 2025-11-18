@@ -1,6 +1,6 @@
 # Appointment Reservation System  
-A secure, database-backed appointment reservation platform built with Java, JDBC, and Azure SQL Server.  
-The system supports user authentication, role-based workflows, scheduling logic, and vaccine inventory management.  
+A secure, database-backed appointment reservation platform built with Java, JDBC, and Azure SQL Server.
+The system supports user authentication, role-based workflows, scheduling logic, and vaccine inventory management.
 It is fully compatible with cloud deployment and is designed to run seamlessly with a remote **Azure SQL Database**.
 
 ---
